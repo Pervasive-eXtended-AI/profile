@@ -15,7 +15,6 @@ Members of PXAI Lab engage in the organization of educational and dissemination 
 Our main application domains are health and healthcare and education to achieve Sustainable Development Goals (SDGs)                     
                           
 ## Research Projects:
-                             
 ### Healthcare                         
 1. eXtended Reality & AI Technology – Enable Digital Pathology                                      
                              
@@ -25,7 +24,7 @@ Indigenous AI projects in collaboration with Kulbardi Aboriginal Centre, Murdoch
 ## Long-term aim                               
 To set up a Centre of Excellence of Pervasive AI & eXtended Reality in South Pacific Region      
                                 
-## Project    
+## Projects    
 A select of relevant research projects developed by the laboratory.     
                                                                 
 ### Active projects                                                                
